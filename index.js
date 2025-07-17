@@ -1,3 +1,5 @@
+// www/index.js
+
 import { Universe } from "wasm-game-of-life";
 
 const pre = document.getElementById("game-of-life-canvas");
